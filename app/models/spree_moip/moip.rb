@@ -1,4 +1,5 @@
 # encoding: utf-8
+require 'nokogiri'
 require 'net/https'
 require 'uri'
 require 'builder'
